@@ -1,6 +1,18 @@
 # scaling-octo-meme
 
-First Tutorial HTML/CSS Focus
+## First Tutorial HTML/CSS Focus
+
+### HTML Fundamentals
+### CSS Fundamentals
+### Layouts
+### Web Design Framework
+### Components and Layouts
+### Omnifood: Desktop
+### Omnifood: Responsive
+### Omnifood: Optimizations
+
+
+
 Second Tutorial CSS Focus
 Third Tutorial JavaScript Focus
 Fourth Tutorial React Focus
