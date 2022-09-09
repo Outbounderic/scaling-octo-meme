@@ -33,6 +33,14 @@ Html provides the content, Css provides the presentation of the content, and JS 
 
 ---
 
+### What is HTML?
+
+Hyper Text Markup Language is a language that developers use to structure and describe the content of a webpage. The elements describe paragraphs, images, videos, and many other types of content. Web browsers render HTML as the webpage.
+
+An HTML element has an opening tag, closing tag, and content.
+
+HTML structure is the boiler plate.
+
 ---
 
 ## CSS Fundamentals
